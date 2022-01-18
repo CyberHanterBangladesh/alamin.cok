@@ -139,7 +139,7 @@ for msg in q:
     time.sleep(0.01)
 print("")
 
-print(yellow+"\n\n         < ━━━━━━━ [★] "+green+"Information And Technology"+yellow+" [★]━━━━━━ >")
+print(yellow+"\n\n  < ━━━━━━━ [★] "+green+"Information And Technology"+yellow+" [★]━━━━━━ >")
 
 
 number=str(input(red+"\n\n\n[➙] Enter Your Number [>]+880"))
