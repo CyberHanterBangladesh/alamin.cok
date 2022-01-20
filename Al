@@ -1,0 +1,1 @@
+{"id":"","from":"\"Md Kamruzzaman\" \u003ckmd718983@gmail.com\u003e","to":"9d04lihplm@kobrandly.com","cc":"null","subject":"","body_text":"Hi\n","body_html":"\u003cdiv dir=\"auto\"\u003eHi\u003c/div\u003e\n","created_at":"2022-01-19T17:35:09.90193057Z","attachments":[]}
