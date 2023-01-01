@@ -1,0 +1,2 @@
+b = "https://www.bioscopelive.com/en/login/send-otp?phone=88".concat(number.getText().toString().concat("&operator=bd-otp"));
+z.startRequestNetwork(RequestNetworkController.GET, b, "A", _z_request_listener);
